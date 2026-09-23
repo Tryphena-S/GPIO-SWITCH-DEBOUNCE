@@ -61,6 +61,7 @@ Configure an on-board switch pin as a GPIO input with an internal pull-up resist
 
 ---
 ## OUTPUT
+<img width="1885" height="1016" alt="image" src="https://github.com/user-attachments/assets/39075363-f873-422a-a12d-45d255bc1cab" />
 
 
 
